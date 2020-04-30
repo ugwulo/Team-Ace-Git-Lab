@@ -1,0 +1,2 @@
+[0430/230358:ERROR:icu_util.cc(65)] Failed to load icudt42.dll
+[0430/230358:FATAL:WebCoreImpl.cpp(823)] Check failed: icu_result. 
