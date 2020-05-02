@@ -13,4 +13,4 @@
 ![fork repo](https://user-images.githubusercontent.com/57402241/80796929-6391a280-8b98-11ea-885d-8206b0b22121.PNG)
 
 ## Cloned Repo
-![clone repo studio](https://user-images.githubusercontent.com/57402241/80796992-8a4fd900-8b98-11ea-88b0-db578ca43a92.PNG)
+![clone repo](https://user-images.githubusercontent.com/57402241/80851886-47cfe000-8c1c-11ea-8230-b6a956131337.PNG)
